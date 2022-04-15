@@ -1,0 +1,23 @@
+{
+  "name": "bot-angkringan",
+  "version": "1.0.0",
+  "description": "Bot khusus Discord Server Angkringan Pak Wahyudi",
+  "main": "apw.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Ilham GUD",
+  "license": "ISC",
+  "dependencies": {
+    "ascii-table": "0.0.9",
+    "chalk": "^4.1.2",
+    "discord.js": "^13.1.0",
+    "dotenv": "^10.0.0",
+    "express": "^4.17.1",
+    "fs": "0.0.1-security",
+    "ms": "^2.1.3",
+    "quick.db": "^7.1.3",
+    "quickmongo": "^3.0.0",
+    "simply-djs": "^2.5.2"
+  }
+}
